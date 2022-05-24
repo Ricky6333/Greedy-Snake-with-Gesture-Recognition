@@ -1,3 +1,5 @@
+the little game made by pygame & pytorch...
+
 Hand_data.zip    : gesture data~
 OpenCv_img.ipynb : You can use this code to Add the image.
 make_csv.ipynb   : You can use this code to make the csv file ( data_site , label) 
