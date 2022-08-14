@@ -1,4 +1,6 @@
 the little game made by pygame & pytorch...
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/JbTH4hitkSk/0.jpg)](https://www.youtube.com/watch?v=JbTH4hitkSk "Greedy Snake with Gesture Recognition")
+
 
 Hand_data.zip    : gesture data~
 OpenCv_img.ipynb : You can use this code to Add the image.
