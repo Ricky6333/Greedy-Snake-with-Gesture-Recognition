@@ -1,6 +1,5 @@
 the little game made by pygame & pytorch...
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/JbTH4hitkSk/0.jpg)]
-(https://www.youtube.com/watch?v=JbTH4hitkSk "Greedy Snake with Gesture Recognition")
+[![Greedy Snake with Gesture Recognition](http://img.youtube.com/vi/JbTH4hitkSk/0.jpg)](https://www.youtube.com/watch?v=JbTH4hitkSk "Greedy Snake with Gesture Recognition")
 
 
 Hand_data.zip    : gesture data~
