@@ -1,4 +1,5 @@
-## the little game made by pygame & pytorch...
+## Greedy-Snake-with-Gesture-Recognition
+the little game made by pygame & pytorch...
 [![Greedy Snake with Gesture Recognition (Test Version)](https://img.youtube.com/vi/JbTH4hitkSk/0.jpg)](https://www.youtube.com/watch?v=JbTH4hitkSk)
 
 Hand_data.zip    : gesture data~
